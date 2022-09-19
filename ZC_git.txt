@@ -5,6 +5,8 @@ git remote add origin https://github.com/33zcc/private2022_public.git
 git pull origin master
 
 
+git remote set-url origin https://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@github.com/33zcc/private2022_public.git
+
 
 git add *	/	git add .
 
