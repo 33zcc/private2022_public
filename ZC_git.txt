@@ -1,0 +1,13 @@
+git init
+
+git remote add origin https://github.com/33zcc/private2022_public.git
+
+git pull origin master
+
+
+
+git add *	/	git add .
+
+git commit -m "???"
+
+git push origin master
