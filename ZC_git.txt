@@ -13,3 +13,11 @@ git add *	/	git add .
 git commit -m "???"
 
 git push origin master
+
+
+git rm -rf 文件名
+
+
+https://33zcc.github.io/private2022_public/
+
+
