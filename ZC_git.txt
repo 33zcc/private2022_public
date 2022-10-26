@@ -18,6 +18,7 @@ git push origin master
 git rm -rf 文件名
 
 
+Pages网址
 https://33zcc.github.io/private2022_public/
 
 
